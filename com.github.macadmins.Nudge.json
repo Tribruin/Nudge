@@ -54,12 +54,12 @@
         "mainContentHeader": "Your device will restart during this update",
         "mainContentNote": "Important Notes",
         "mainContentSubHeader": "Updates can take around 30 minutes to complete",
-        "mainContentText": "Apple regularly releases security and feature updates for their computers.\n\nRunning an updated computer is the best way to ensure your comptuer is secure\n\nPlease click the \'Update\' button to begin the update process.",
+        "mainContentText": "Apple regularly releases security and feature updates for their computers.\n\nRunning an updated computer is the best way to ensure your comptuer is secure\n\nPlease click the Update button to begin the update process.",
         "mainHeader": "A security update is avaliable for your computer",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "I understand",
         "subHeader": "Please update as soon as possible."
-      },
+      }
     ]
   }
 }
