@@ -8,7 +8,7 @@
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT211896#macos1121",
       "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
-      "requiredInstallationDate": "2021-06-30T00:00:00Z",
+      "requiredInstallationDate": "2021-06-05T00:00:00Z",
       "requiredMinimumOSVersion": "11.3.1",
       "targetedOSVersions": [
         "11.0",
@@ -56,7 +56,7 @@
         "mainContentSubHeader": "Updates can take around 30 minutes to complete",
         "mainContentText": "Apple regularly releases security and feature updates for their computers.\n\nRunning an updated computer is the best way to ensure your comptuer is secure\n\nPlease click the Update button to begin the update process.",
         "mainHeader": "A security update is avaliable for your computer",
-        "primaryQuitButtonText": "Later",
+        "primaryQuitButtonText": "Postpone",
         "secondaryQuitButtonText": "I understand",
         "subHeader": "Please update as soon as possible."
       }
